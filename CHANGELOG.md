@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ck-oss/tsconfig/compare/v1.0.0...v1.0.1) (2023-09-24)
+
+
+### Bug Fixes
+
+* remove deps ([a318483](https://github.com/ck-oss/tsconfig/commit/a31848319a0debfc3ceccdd777512e427def1a07))
+
 # 1.0.0 (2023-09-22)
 
 
