@@ -4,8 +4,6 @@
   "compilerOptions": {
     "target": "esnext",
     "lib": ["esnext"],
-    "jsx": "react-jsx",
-    "jsxImportSource": "hono/jsx",
     "types": ["@cloudflare/workers-types"]
   }
 }
