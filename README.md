@@ -4,38 +4,35 @@ CK OSS Typescript Configuration
 
 ## Installation
 
-```
-npm i -D @ck-oss/tsconfig
+```bash
+npm i --save-dev @ck-oss/tsconfig
 ```
 
 ## Base
 
 ```json
-// tsconfig.json
 {
   "extends": "@ck-oss/tsconfig/base.json"
 }
 ```
 
-## Hono + Cloudflare Workers
+## Cloudflare Workers
 
 ```json
-// tsconfig.json
 {
-  "extends": "@ck-oss/tsconfig/hono-cloudflare.json"
+  "extends": "@ck-oss/tsconfig/cloudflare.json"
 }
 ```
 
-Make sure to also install Hono and Cloudflare Workers Types
+Make sure to also install Cloudflare Workers Types
 
 ```bash
-npm i hono && npm i -D @cloudflare/workers-types
+npm i --save-dev @cloudflare/workers-types
 ```
 
 ## Next.js
 
 ```json
-// tsconfig.json
 {
   "extends": "@ck-oss/tsconfig/next.json",
   "compilerOptions": {
@@ -53,20 +50,18 @@ npm i hono && npm i -D @cloudflare/workers-types
 }
 ```
 
-# Node Library
+# Node.js
 
 ```json
-// tsconfig.json
 {
-  "extends": "@ck-oss/tsconfig/node-library.json"
+  "extends": "@ck-oss/tsconfig/node.json"
 }
 ```
 
-# React Library
+# React.js
 
 ```json
-// tsconfig.json
 {
-  "extends": "@ck-oss/tsconfig/react-library.json"
+  "extends": "@ck-oss/tsconfig/react.json"
 }
 ```
