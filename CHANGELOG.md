@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/ck-oss/tsconfig/compare/v1.0.1...v2.0.0) (2023-10-01)
+
+
+### Features
+
+* 2.0 release ([45e449d](https://github.com/ck-oss/tsconfig/commit/45e449d5c782f115c403ecfaf38cc2053021ecfd))
+
+
+### BREAKING CHANGES
+
+* renamed hono-cloudflare, react-library, node-library configs
+
 ## [1.0.1](https://github.com/ck-oss/tsconfig/compare/v1.0.0...v1.0.1) (2023-09-24)
 
 
