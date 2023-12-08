@@ -22,7 +22,6 @@
   },
   "files": [
     "./base.json",
-    "./cloudflare.json",
     "./next.json",
     "./node.json",
     "./react.json"
