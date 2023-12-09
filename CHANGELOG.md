@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/ck-oss/tsconfig/compare/v2.0.0...v2.0.1) (2023-12-09)
+
+
+### Bug Fixes
+
+* remove cloudflare ([0d517d1](https://github.com/ck-oss/tsconfig/commit/0d517d1c83caf5698d1e85867a01ef0f1e083a7c))
+
 # [2.0.0](https://github.com/ck-oss/tsconfig/compare/v1.0.1...v2.0.0) (2023-10-01)
 
 
