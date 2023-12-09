@@ -16,14 +16,6 @@ npm i --save-dev @ck-oss/tsconfig
 }
 ```
 
-## Cloudflare Workers
-
-```json
-{
-  "extends": "@ck-oss/tsconfig/cloudflare.json"
-}
-```
-
 Make sure to also install Cloudflare Workers Types
 
 ```bash
